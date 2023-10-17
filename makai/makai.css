@@ -9,5 +9,5 @@ header.dashboard-header {
 
 header.dashboard-header nav #header {
   background-size: 50px 40px !important;
-  background-image: url("https://raw.githubusercontent.com/hanson106/assets/main/makai/makai-logo.png") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/hanson106/assets@main/makai/makai-logo.png") !important;
 }
