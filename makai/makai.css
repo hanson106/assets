@@ -1,5 +1,5 @@
 header.dashboard-header {
-  background-color: #000000 !important;
+  background-color: #fff !important;
   border-bottom-color: #00519e !important;
 }
 
@@ -9,5 +9,5 @@ header.dashboard-header {
 
 header.dashboard-header nav #header {
   background-size: 70px 70px !important;
-  background-image: url("https://cdn.jsdelivr.net/gh/hanson106/assets@main/makai/makai-logo.png") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/hanson106/assets@main/makai/makai-name-logo.png") !important;
 }
