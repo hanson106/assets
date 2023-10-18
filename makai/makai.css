@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 70px 70px !important;
+  background-size: 140px 70px !important;
   background-image: url("https://cdn.jsdelivr.net/gh/hanson106/assets@main/makai/makai-name-logo.png") !important;
 }
